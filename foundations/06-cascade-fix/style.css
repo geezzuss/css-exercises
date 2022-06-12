@@ -5,10 +5,12 @@
 
 .small-para {
   font-size: 14px;
+
 }
 
 .para {
   font-size: 22px;
+  background-color: red;
 }
 
 .confirm {
